@@ -1,0 +1,1214 @@
+//HTML CODE
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="car.css">
+	<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <title>Document</title>
+</head>
+<body>
+    <header class="header">
+        <div id="menu"><i class="fa-solid fa-bars"></i></div>
+         <a href="#" class="logo"><span>pick</span>Cars</a>
+        <nav class="navbar">
+            <a href="#home">Home</a>
+            <a href="#vehicles">Vehicles</a>
+            <a href="#services">Services</a>
+            <a href="#featured">Features</a>
+            <a href="#reviews">Reviews</a>
+            <a href="#contact">Contact</a>
+        </nav>
+        <div id="login-btn">
+            <button class="btn">Login</button>
+            <i class="fa-regular fa-user"></i>        </div>
+    </header>
+
+    <div class="login-form-container">
+        <span class="fas fa-times"id="close-login-form"></span>
+        <form action="">
+            <h3>USER LOGIN</h3>
+            <input type="email" name="" class="box" placeholder="Email">
+            <input type="password" name="" class="box" placeholder="password">
+            <p>Forget Your password <a href="#forget">Click Here</a></p>
+            <input type="submit" value="Login Now" class="btn">
+            <p>Or Login With </p>
+            <div class="button">
+                <a href="#" class="btn">Google</a>
+                <a href="#" class="btn">Facebook</a>
+            </div>
+            <p>dont't have an account <a href="#">Create Account</a></p>
+
+        </form>
+    </div>
+
+    <section class="home" id="home">
+        <h1 class="home-parallax" data-speed="-2">Find Ur Car</h1>
+        <img  class="home-parallax" data-speed="5" src="./new/car3.png" alt="">
+        <a href="#" class="btn home-parallax" data-speed="7">Explore Cars</a>
+    </section>
+
+    <section class="icons-container">
+        <div class="icons">
+            <i class="fas fa-home"></i>
+            <div class="contaent">
+                <h3>150+</h3>
+                <p>Branches</p>
+            </div>
+        </div>
+
+        <div class="icons">
+            <i class="fas fa-car"></i>
+            <div class="contaent">
+                <h3>5000+</h3>
+                <p>Cars Sold</p>
+            </div>
+        </div>
+
+        <div class="icons">
+            <i class="fas fa-users"></i>
+            <div class="contaent">
+                <h3>500+</h3>
+                <p>Happy Clients</p>
+            </div>
+        </div>
+
+        <div class="icons">
+            <i class="fas fa-car"></i>
+            <div class="contaent">
+                <h3>800+</h3>
+                <p>New Cars</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="vehicles" id="vehicles">
+        <h3 class="heading">Popular<span> Vehicles</span></h3>
+        <div class="swiper-container vehicles-slider">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide box">
+                    <img src="./new/carslide.png" alt="">
+                    <div class="content">
+                        <h3>New Model</h3>
+                        <div class="price"><span>Price: </span> $65000/-</div>
+                        <p>
+                           New
+                           <span class="fas fa-circle"></span>2021
+                           <span class="fas fa-circle"></span>automatic
+                           <span class="fas fa-circle"></span>Petrol<br>
+                           <span class="fas fa-circle"></span>183mph
+                        </p>
+                        <a href="#" class="btn">Check Out</a>
+                    </div>
+                </div>
+                <div class="swiper-slide box">
+                    <img src="./new/carslide1.png" alt="">
+                    <div class="content">
+                        <h3>New Model</h3>
+                        <div class="price"><span>Price: </span> $65000/-</div>
+                        <p>
+                           New
+                           <span class="fas fa-circle"></span>2021
+                           <span class="fas fa-circle"></span>automatic
+                           <span class="fas fa-circle"></span>Petrol<br>
+                           <span class="fas fa-circle"></span>183mph
+                        </p>
+                        <a href="#" class="btn">Check Out</a>
+                    </div>
+                </div>
+                <div class="swiper-slide box">
+                    <img src="./new/carslide3.png" alt="">
+                    <div class="content">
+                        <h3>New Model</h3>
+                        <div class="price"><span>Price: </span> $65000/-</div>
+                        <p>
+                           New
+                           <span class="fas fa-circle"></span>2021
+                           <span class="fas fa-circle"></span>automatic
+                           <span class="fas fa-circle"></span>Petrol<br>
+                           <span class="fas fa-circle"></span>183mph
+                        </p>
+                        <a href="#" class="btn">Check Out</a>
+                    </div>
+                </div>
+                <div class="swiper-slide box">
+                    <img src="./new/carslide2.png" alt="">
+                    <div class="content">
+                        <h3>New Model</h3>
+                        <div class="price"><span>Price: </span> $65000/-</div>
+                        <p>
+                           New
+                           <span class="fas fa-circle"></span>2021
+                           <span class="fas fa-circle"></span>automatic
+                           <span class="fas fa-circle"></span>Petrol<br>
+                           <span class="fas fa-circle"></span>183mph
+                        </p>
+                        <a href="#" class="btn">Check Out</a>
+                    </div>
+                </div>
+                <div class="swiper-slide box">
+                    <img src="./new/carslide5.png" alt="">
+                    <div class="content">
+                        <h3>New Model</h3>
+                        <div class="price"><span>Price: </span> $65000/-</div>
+                        <p>
+                           New
+                           <span class="fas fa-circle"></span>2021
+                           <span class="fas fa-circle"></span>automatic
+                           <span class="fas fa-circle"></span>Petrol<br>
+                           <span class="fas fa-circle"></span>183mph
+                        </p>
+                        <a href="#" class="btn">Check Out</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="services" id="services">
+        <h1 class="heading">Our<span> services</span></h1>
+        <div class="box-container">
+            <div class="box">
+                <i class="fas fa-car"></i>
+                <h3>Car Selling</h3>
+                <p>Taking them to the car and give complete details of the car. 
+                    Also ask them to have a test drive and have thorough experience of handling the car, the comfort, ride quality etc.
+                     Explain them how it will make a good choice, its utility, ease of maintenace etc.
+                     Later explain the finance options, discounts available.</p>
+                     <a href="#" class="btn">Read More</a>
+            </div>
+            <div class="box">
+                <i class="fas fa-tools"></i>
+                <h3>Parts Repair</h3>
+                <p>Car servicing is the most reliable method to locate
+                     issues that may turn into major defects. 
+                     Identifying and correcting the issue at the
+                      initial stage will not only save 
+                    time and money but also avoid problems midway a trip.</p>
+                     <a href="#" class="btn">Read More</a>
+            </div>
+            <div class="box">
+                <i class="fa-solid fa-car-burst"></i>
+                <h3>Car Insurance</h3>
+                <p>Car insurance is an agreement between the insurance company and the car owner wherein,
+                     the car owner will pay premiums and the insurance company covers for loss or damage caused to the car. Car Insurance is mandatory in India regardless of whether it is a commercial vehicle or a personal vehicle</p>
+                     <a href="#" class="btn">Read More</a>
+            </div>
+            <div class="box">
+                <i class="fas fa-battery"></i>
+                <h3>Battery Replacement</h3>
+                <p>A car battery replacement gives a new life to your vehicle and maximizes its lifespan and yield high performance. By changing the car battery you get rid of frequent battery discharge problems. A good battery gets recharged quickly, the time limit for charging the battery is less as compared to an old battery</p>
+                     <a href="#" class="btn">Read More</a>
+            </div>
+            <div class="box">
+                <i class="fa-solid fa-gas-pump"></i>
+                <h3>Oil Change</h3>
+                <p>Every car is different, but most should have their oil changed every 3,000 miles or three months. New vehicles usually require a change of oil every 6,000 miles or six months. Check your owner's handbook for specific guidelines.</p>
+                     <a href="#" class="btn">Read More</a>
+            </div>
+            <div class="box">
+                <i class="fa-solid fa-headset"></i>
+                <h3>24/7 Support</h3>
+                <p>Roadside Assistance (RSA) is a coverage that offers much-needed relief to the vehicle owner whose vehicle breaks down or has a mechanical failure. Without the cover, it can be overwhelming for the vehicle owner to be stranded in unfamiliar places without any access to a mechanic.</p>
+                     <a href="#" class="btn">Read More</a>
+            </div>
+        </div>
+    </section>
+    <section class="featured" id="featured">
+        <div class="heading"><span>featured</span> Cars</div>
+        <div class="swiper featured-slider">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide box">
+                    <img src="./new/download (4).jfif" alt="">
+                    <h3>New Model</h3>
+                    <div class="stars">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star-half-alt"></i>
+                    </div>
+                    <div class="price">$55,000/-</div>
+                    <a href="#" class="btn">Check Out</a>
+                </div>
+                <div class="swiper-slide box">
+                    <img src="./new/download (7).jfif" alt="">
+                    <h3>New Model</h3>
+                    <div class="stars">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star-half-alt"></i>
+                    </div>
+                    <div class="price">$55,000/-</div>
+                    <a href="#" class="btn">Check Out</a>
+                </div>
+                <div class="swiper-slide box">
+                    <img src="./new/download (8).jfif" alt="">
+                    <h3>New Model</h3>
+                    <div class="stars">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star-half-alt"></i>
+                    </div>
+                    <div class="price">$55,000/-</div>
+                    <a href="#" class="btn">Check Out</a>
+                </div>
+                <div class="swiper-slide box">
+                    <img src="./new/download (6).jfif" alt="">
+                    <h3>New Model</h3>
+                    <div class="stars">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star-half-alt"></i>
+                    </div>
+                    <div class="price">$55,000/-</div>
+                    <a href="#" class="btn">Check Out</a>
+                </div>
+                <div class="swiper-slide box">
+                    <img src="./new/download (1).jfif" alt="">
+                    <h3>New Model</h3>
+                    <div class="stars">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star-half-alt"></i>
+                    </div>
+                    <div class="price">$55,000/-</div>
+                    <a href="#" class="btn">Check Out</a>
+                </div>
+                <div class="swiper-slide box">
+                    <img src="./new/download (2).jfif" alt="">
+                    <h3>New Model</h3>
+                    <div class="stars">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star-half-alt"></i>
+                    </div>
+                    <div class="price">$55,000/-</div>
+                    <a href="#" class="btn">Check Out</a>
+                </div>
+                <div class="swiper-slide box">
+                    <img src="./new/download (3).jfif" alt="">
+                    <h3>New Model</h3>
+                    <div class="stars">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star-half-alt"></i>
+                    </div>
+                    <div class="price">$55,000/-</div>
+                    <a href="#" class="btn">Check Out</a>
+                </div>
+            </div>
+            
+            <div class="swiper featured-slider">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide box">
+                        <img src="./new/download (4).jfif" alt="">
+                        <h3>New Model</h3>
+                        <div class="stars">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star-half-alt"></i>
+                        </div>
+                        <div class="price">$55,000/-</div>
+                        <a href="#" class="btn">Check Out</a>
+                    </div>
+                    <div class="swiper-slide box">
+                        <img src="./new/download (7).jfif" alt="">
+                        <h3>New Model</h3>
+                        <div class="stars">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star-half-alt"></i>
+                        </div>
+                        <div class="price">$55,000/-</div>
+                        <a href="#" class="btn">Check Out</a>
+                    </div>
+                    <div class="swiper-slide box">
+                        <img src="./new/download (8).jfif" alt="">
+                        <h3>New Model</h3>
+                        <div class="stars">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star-half-alt"></i>
+                        </div>
+                        <div class="price">$55,000/-</div>
+                        <a href="#" class="btn">Check Out</a>
+                    </div>
+                    <div class="swiper-slide box">
+                        <img src="./new/download (6).jfif" alt="">
+                        <h3>New Model</h3>
+                        <div class="stars">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star-half-alt"></i>
+                        </div>
+                        <div class="price">$55,000/-</div>
+                        <a href="#" class="btn">Check Out</a>
+                    </div>
+                    <div class="swiper-slide box">
+                        <img src="./new/download (1).jfif" alt="">
+                        <h3>New Model</h3>
+                        <div class="stars">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star-half-alt"></i>
+                        </div>
+                        <div class="price">$55,000/-</div>
+                        <a href="#" class="btn">Check Out</a>
+                    </div>
+                    <div class="swiper-slide box">
+                        <img src="./new/download (2).jfif" alt="">
+                        <h3>New Model</h3>
+                        <div class="stars">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star-half-alt"></i>
+                        </div>
+                        <div class="price">$55,000/-</div>
+                        <a href="#" class="btn">Check Out</a>
+                    </div>
+                    <div class="swiper-slide box">
+                        <img src="./new/download (3).jfif" alt="">
+                        <h3>New Model</h3>
+                        <div class="stars">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star-half-alt"></i>
+                        </div>
+                        <div class="price">$55,000/-</div>
+                        <a href="#" class="btn">Check Out</a>
+                    </div>
+                </div>
+                <div class="swiper-pagination"></div>
+        </div>
+        </div>
+    </section>
+    <section class="review" id="reviews">
+        <div class="heading">
+            <span>Reviews</span>
+            <h1>Whats Our Customer Says</h1>
+        </div>
+        <div class="review-container reveal">
+            <div class="box">
+                <div class="rev-img">
+                    <img src="./new/img1.webp" alt="">
+                </div>
+                <h2>Name</h2>
+                <div class="stars">
+                    <i class='fas fa-star'></i>
+                    <i class='fas fa-star'></i>
+                    <i class='fas fa-star'></i>
+                    <i class='fas fa-star'></i>
+                    <i class='fas fa-star-half'></i>
+                </div>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus ipsum illo similique accusamus sint, tenetur, cupiditate modi quis repellendus aliquam aspernatur delectus consequuntur ab porro, provident placeat odit inventore neque.</p>
+            </div>
+            <div class="box">
+                <div class="rev-img">
+                    <img src="./new/img2.jpg" alt="">
+                </div>
+                <h2>Name</h2>
+                <div class="stars">
+                    <i class='fas fa-star'></i>
+                    <i class='fas fa-star'></i>
+                    <i class='fas fa-star'></i>
+                    <i class='fas fa-star'></i>
+                    <i class='fas fa-star-half'></i>
+                </div>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus ipsum illo similique accusamus sint, tenetur, cupiditate modi quis repellendus aliquam aspernatur delectus consequuntur ab porro, provident placeat odit inventore neque.</p>
+            </div>
+            <div class="box">
+                <div class="rev-img">
+                    <img src="./new/img4.avif" alt="">
+                </div>
+                <h2>Name</h2>
+                <div class="stars">
+                    <i class='fas fa-star'></i>
+                    <i class='fas fa-star'></i>
+                    <i class='fas fa-star'></i>
+                    <i class='fas fa-star'></i>
+                    <i class='fas fa-star-half'></i>
+                </div>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus ipsum illo similique accusamus sint, tenetur, cupiditate modi quis repellendus aliquam aspernatur delectus consequuntur ab porro, provident placeat odit inventore neque.</p>
+            </div>
+            <div class="box">
+                <div class="rev-img">
+                    <img src="./new/img5.jpg" alt="">
+                </div>
+                <h2>Name</h2>
+                <div class="stars">
+                    <i class='fas fa-star'></i>
+                    <i class='fas fa-star'></i>
+                    <i class='fas fa-star'></i>
+                    <i class='fas fa-star'></i>
+                    <i class='fas fa-star-half'></i>
+                </div>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus ipsum illo similique accusamus sint, tenetur, cupiditate modi quis repellendus aliquam aspernatur delectus consequuntur ab porro, provident placeat odit inventore neque.</p>
+            </div>
+        </div>
+    </section>
+    <section class="contact" id="contact">
+        <div class="contact-container">
+            <div class="heading"><span>Contact</span></div>
+            <div class="box">
+                <h2><span>Max</span>Wheels</h2>
+                <div class="data">
+                    <i class="fas fa-location-dot fa-bounce"></i> <h3>Ramasagara Kolar Distict Bangarpet Taluk<br>Karnataka India - 563116</h3>
+                    <i class="fas fa-phone fa-shake"></i> <h3>9901414072</h3>
+                    <i class="fas fa-message fa-fade"></i> <h3>9632541784</h3>
+                    <i class="fa-solid fa-envelope fa-beat-fade"></i> <h3>sharanreddy26372@gmail.com</h3>
+                </div>
+            </div>
+        </div>       
+    </section>
+    <section class="contact" id="contact">
+        <h1 class="heading"><span>Contact</span> Us</h1>
+    <div class="row">
+        <iframe class="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31105.731521723006!2d77.692521!3d12.9579976!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae13b4551d0957%3A0x597894d77e1e4919!2sMarathahalli%2C%20Bengaluru%2C%20Karnataka!5e0!3m2!1sen!2sin!4v1686392521749!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+        </iframe>
+        <form action="" class="con">
+            <h3>Get In Touch</h3>
+            <input type="text" name="" id="conbox" placeholder="Enter Ur Name"><br><br>
+            <input type="email" name="" id="conbox" placeholder="Enter Ur Email"><br><br>
+            <textarea name="" id="conbox" cols="30" rows="5" placeholder="Enter Ur Message"></textarea><br><br>
+            <button class="btn">Submit</button>
+        </form>
+    </div>
+    </section>
+    <section class="" id="">
+        <footer>
+            <div class="copyright">
+                <p>&#169;  All Right Reserved</p>
+                <div class="social">
+                    <img src="./new/download (1).png" alt="" class="img1">
+                    <img src="./new/download (2).png" alt="">
+                    <a href="https://www.facebook.com/profile.php?id=100018679517337"><i class="fa-brands fa-facebook-f fa-shake"></i></i></a>
+                    <a href="#"><i class="fa-brands fa-twitter fa-beat"></i></a>
+                    <a href="https://www.instagram.com/sharanreddy26372/"><i class="fa-brands fa-instagram fa-bounce"></i></a>
+                </div>
+            </div>
+        </footer>
+    </section>
+  </body>
+</html>
+
+------------------------------------------------------------------------------------------------------------------------
+
+//JAVA SCRIPT CODE
+
+
+<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+<script>let menu=document.querySelector('.fa-bars');
+    let navbar=document.querySelector('.navbar');
+    
+    menu.onclick=()=>{
+        menu.classList.toggle('fa-times');
+        navbar.classList.toggle('active');
+    
+    }
+    document.querySelector('#login-btn').onclick=()=>{
+        document.querySelector('.login-form-container').classList.toggle('active');
+
+    }
+    document.querySelector('#close-login-form').onclick=()=>{
+        document.querySelector('.login-form-container').classList.toggle('active');
+        
+    }
+    window.onscroll=()=>{
+    
+        if(window.scrollY > 0){
+            document.querySelector('.header').classList.add('active');
+        }else{
+            document.querySelector('.header').classList.remove('active');
+    
+        }
+    }
+    document.querySelector('.home').onmousemove = (e)=>{
+        document.querySelectorAll('.home-parallax').forEach(elm => {
+            let speed= elm.getAttribute('data-speed');
+            let x=(window.innerWidth - e.pageX * speed)/90;
+            let y=(window.innerHeight - e.pageY * speed)/90;
+            elm.style.transform=`translateX(${y}px) translateY(${x}px)`;
+        });
+    }
+    document.querySelector('.home').onmouseleave = ()=>{
+        document.querySelectorAll('.home-parallax').forEach(elm => {
+
+            elm.style.transform=`translateX(0px) translateY(0px)`;
+        });
+    }
+
+    var swiper = new Swiper('.vehicles-slider', {
+      slidesPerView: 1,
+      spaceBetween: 10,
+      loop:true,
+      grabCursor:true,
+      centeredSlides:true,
+      autoplay: {
+        delay: 9500,
+        disableOnInteraction: false,
+      },
+      // init: false,
+      pagination: {
+        el: '.swiper-pagination',
+        clickable: true,
+      },
+      breakpoints: {
+        0: {
+          slidesPerView: 1,
+        },
+        768: {
+          slidesPerView: 2,
+        },
+        991: {
+          slidesPerView: 3,
+        },
+      }
+    });
+    var swiper = new Swiper('.featured-slider', {
+      slidesPerView: 1,
+      spaceBetween: 10,
+      loop:true,
+      grabCursor:true,
+      centeredSlides:true,
+      autoplay: {
+        delay: 9500,
+        disableOnInteraction: false,
+      },
+      // init: false,
+      pagination: {
+        el: '.swiper-pagination',
+        clickable: true,
+      },
+      breakpoints: {
+        0: {
+          slidesPerView: 1,
+        },
+        768: {
+          slidesPerView: 2,
+        },
+        991: {
+          slidesPerView: 3,
+        },
+      }
+    });
+    </script>
+    
+    ------------------------------------------------------------------------------------------------------------------------
+//CSS CODE FOR HTML
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+:root{
+    --yellow:#f9d806;
+    --light-yellow:#ffee80;
+    --black:#130f40;
+    --light-color:#666;
+    --border:.1rem solid rgba(0,0,0,.1);
+    --box-shadow:0 .5rem 1rem rgba(0,0,0,.1);    
+}
+*{
+    font-family: 'Poppins',sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    border:none;
+    text-decoration: none;
+    text-transform: capitalize;
+   
+}
+html{
+    font-size: 62.5%;
+    overflow-x:hidden;
+    scroll-padding-top:  7rem;
+    scroll-behavior: smooth;
+}
+section{
+    padding:2rem 9%;
+}
+.heading{
+    text-align: center;
+    font-size: 5rem;
+    text-transform: uppercase;
+    padding-bottom: 2rem;
+    color: var(--black);
+}
+.heading span{
+    text-transform: uppercase;
+    position: relative;
+    z-index: 0;
+}
+.heading span::before{
+    content: '';
+    position: absolute;
+    bottom: 1rem;left: 0;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    background: var(--yellow);
+    clip-path: polygon(0 90%,100% 80%,100% 100%,0% 100%);
+
+}
+.btn{
+    display: inline-block;
+    margin-top: 1rem;
+    border-radius: .5rem;
+    background: var(--light-yellow);
+    color: var(--black);
+    font-weight: bold;
+    font-size: 1.7rem;
+    cursor: pointer;
+    padding: .8rem 3rem;
+}
+.btn:hover{
+    background: var(--black);
+    color: white;
+}
+.header{
+    position: fixed;
+    top:0;
+    left:0;
+    right: 0;
+    z-index: 999;
+    background: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding:3rem;
+}
+.header .logo{
+font-size:2.5rem;
+color: var(--black);
+font-weight: bolder;
+}
+.header .logo span{
+    color: var(--yellow);
+}
+.header .navbar :any-link{
+    font-size: 1.7rem;
+    margin: 0 1rem;
+    color: var(--black);
+}
+.header .navbar a:hover{
+    color: var(--yellow);
+}
+.heaedr .btn{
+    margin-top: 0;
+}
+.header #login-btn i{
+font-size: 2.5rem;
+color: var(--light-color);
+cursor: pointer;
+display: none;
+}
+.fa-bars{
+    font-size: 2.5rem;
+    color: var(--light-color);
+    cursor: pointer;
+    display: none;
+}
+body{
+    height: 300rem;
+}
+.header.active{
+    box-shadow: var(--box-shadow);
+    padding: 2rem 9%;
+}
+.login-form-container{
+   position: fixed;
+   top:-105%;left: 0;
+   z-index: 1000;
+   height: 100%;
+   width: 100%;
+   background: rgba(225,225,225,.9);
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   opacity: 0;
+
+}
+.login-form-container.active{
+    top: 0;
+    opacity: 1;
+}
+.login-form-container form{
+    padding:2rem ;
+    margin: 2rem;
+    border-radius: .5rem;
+    box-shadow: var(--box-shadow);
+    background:#fff;
+    border:var(--border) ;
+    text-align: center;
+    width: 40rem;
+}
+
+.login-form-container form .button{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+.login-form-container form .btn{
+    display: block;
+    width: 100%;
+    margin: .5rem 0;
+}
+.login-form-container form h3{
+    color: var(--black);
+    font-size: 2rem;
+    padding-bottom:1rem ;
+    text-transform: uppercase;
+}
+.login-form-container form .box{
+    margin: .7rem 0;
+    width: 100%;
+    text-transform:none ;
+    color: var(--black);
+    font-size: 1.6rem;
+    padding: 1rem 1.2rem;
+    border:var(--border);
+
+}
+.login-form-container form p{
+    padding: 1rem 0;
+    font-size: 1.5rem;
+    color: var(--light-color);
+}
+.login-form-container form p a{
+    color: var(--yellow);
+    text-decoration: underline;
+
+}
+.login-form-container #close-login-form{
+    position: fixed;
+    top: 1rem;
+    right:2rem;
+    font-size: 5rem;
+    color: var(--black);
+    cursor: pointer;
+}
+
+.home{
+    padding-top: 10rem;
+    text-align: center;
+    overflow-x: hidden;
+}
+.home h1{
+    font-size: 7.5rem;
+    text-transform: uppercase;
+    color: var(--black);
+}
+
+.home img{
+    width: 100%;
+    margin: 1rem 0;
+}
+.icons-container{
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    display: grid;
+    grid-template-columns:repeat(auto-fit, minmax(25rem, 1fr));
+    gap: .5rem;
+    background: #eee;
+}
+.icons-container .icons{
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    padding: 2rem;
+    background: #fff;
+    box-shadow: var(--box-shadow);
+    border-radius: .5rem;
+}
+.icons-container .icons i{
+    height: 6rem;
+    width: 6rem;
+    line-height: 6rem;
+    font-size: 2.5rem;
+    border-radius: 50%;
+    background: #eee;
+    color: var(--black);
+    text-align: center;
+}
+.icons-container .icons .contaent h3{
+color: var(--yellow);
+font-size: 2.5rem;
+}
+.icons-container .icons .contaent p{
+    color: var(--light-color);
+font-size: 1.5rem;
+}
+.icons-container .icons:hover{
+    background: var(--black);
+}
+.icons-container .icons:hover i{
+    background: var(--light-yellow);
+}
+.icons-container .icons:hover .contaent p{
+    color: white;
+}
+.vehicles .vehicles-slider{
+    padding-bottom: 5rem;
+}
+.vehicles .vehicles-slider .box{
+    text-align: center;
+   
+}
+.vehicles .vehicles-slider .box img{
+    width: 100%;
+    opacity: .5;
+    transform: scale(.8);
+}
+.vehicles .vehicles-slider .box .content{
+    transform: scale(0);
+    padding-top: 1rem;
+}
+.vehicles .vehicles-slider .box .content h3{
+    font-size: 2.5rem;
+    color: var(--black);
+}
+.vehicles .vehicles-slider .swiper-slide-active img{
+    opacity: 1;
+    transform: scale(1);
+}
+.vehicles .vehicles-slider .swiper-slide-active .content{
+    transform: scale(1);
+}
+.vehicles .vehicles-slider .box .content .price{
+    font-size: 2.5rem;
+    color: var(--yellow);
+    padding: 1rem 0;
+    font-weight: bolder;
+}
+.vehicles .vehicles-slider .box .content .price span{
+    font-size: 1.7rem;
+    color: var(--light-color);
+    font-weight: normal;
+}
+.vehicles .vehicles-slider .box .content p{
+    font-size: 1.6rem;
+    padding: 1rem;
+    padding-top: 1.5rem;
+    border-top: var(--border);
+    color: var(--light-color);
+
+}
+.vehicles .vehicles-slider .box .content p span{
+    color: var(--yellow);
+    font-size: .8rem;
+    padding: 0.5rem;
+
+}
+
+.services .box-container{
+    display: grid;
+    grid-template-columns:repeat(auto-fit, minmax(30rem, 1fr));
+    gap: .5rem; 
+}
+.services .box-container .box{
+    text-align: center;
+    padding: 2rem;
+    border-radius: .5rem;
+    box-shadow: var(--box-shadow);
+    border: var(--border);
+
+}
+.services .box-container .box i{
+    height: 6rem;
+    width: 6rem;
+    line-height: 6rem;
+    font-size: 2.5rem;
+    color: var(--black);
+    background: var(--yellow);
+    border-radius: 50%;
+    margin-bottom: 1rem;
+}
+.services .box-container .box h3{
+    font-size: 2rem;
+    color: var(--black);
+
+}
+.services .box-container .box p{
+    color: var(--light-color);
+    font-size: 1.2rem;
+    padding: 1rem 0;
+    line-height: 1.8;
+}
+.services .box-container .box:hover{
+    background: var(--black);
+    
+}
+.services .box-container .box:hover p{
+    color:white;
+}
+.services .box-container .box:hover h3{
+    color: rgb(231, 240, 240);
+}
+.heading{
+    font-size: 5srem;
+    font-weight: bolder;
+    text-align: center;
+    border: #130f40;
+}
+.featured .featured-slider{
+    background: #f9f9fa;
+    padding: 1rem;
+    padding-bottom: 4rem;
+}
+.featured .featured-slider .box{
+padding: 2rem;
+text-align: center;
+box-shadow: var(--box-shadow);
+border: var(--border);
+border-radius: .5rem;
+
+}
+.featured .featured-slider .box img{
+    /* height: 15rem; */
+    width: 100%;
+    border-radius: 2rem;
+}
+.featured .featured-slider .box img:hover{
+   transform: scale(.9);
+}
+.featured .featured-slider .box h3{
+    color: white;
+    font-size: 3rem;
+}
+.featured .featured-slider .box .price{
+    font-size: 2rem;
+    font-weight: bold;
+}
+.featured .featured-slider .box .fa-star-half-alt{
+    color: #f9d806;
+    padding: 1rem 0;
+}
+.featured .featured-slider .box .fa-star{
+    color: #f9d806;
+    padding: 1rem 0;
+}
+
+footer{
+    background: var(--light-color);
+}
+footer .copyright {
+    font-size: 2rem;
+    font-weight: bold;
+}
+.copyright{
+    padding: 20px;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+.social .fa-facebook-f{
+color:  #284c99;
+padding: 10px;
+font-size: 21px;
+}
+.social .fa-twitter{
+    color: #00acee;
+    padding: 10px;
+    font-size: 21px;
+    }
+    .social .fa-instagram{
+        color: rgba(rgb(51, 0, 255), rgb(150, 48, 191), rgb(214, 41, 118), alpha);
+        padding: 10px;
+        font-size: 21px;
+        }
+        .copyright .social .img1{
+            width: 8rem;
+        }
+        .copyright .social img{
+            width: 9.2rem;
+        }
+.review-container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(250px,auto));
+    gap:1rem;
+    margin-top: 2rem;
+}
+.rev-img{
+    width:70px;
+    height: 70px;
+}
+.rev-img img{
+    width:100%;
+    height: 100%;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center;
+    border: 2px solid gray;
+}
+.rev-img img:hover{
+    transform:scale(.9);
+    cursor: pointer;
+}
+.review-container .box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    box-shadow: 1px 4px 41px rgba(0,0, 0, 0.5);
+    border-radius: 0.5rem;
+}
+.review .heading  h1{
+    font-size: 3rem;
+}
+.review-container .box h2{
+    font-size: 1.8rem;
+    margin: 0.5rem 0 0.5rem;
+}
+.review-container .box p{
+    font-size: 1.3rem;
+    font-style: italic;
+}
+.review-container .box .fas{
+    color:var(--yellow);
+}
+.contact-container .box{
+ background: rgb(243, 241, 239);  
+ 
+ 
+}
+.contact-container .box span{
+    color: var(--yellow);
+    font-size:4rem ;
+}
+.contact-container .box {
+    color: var(--black);
+    font-size:2rem ;
+    text-align: center;
+}
+.contact-container .box h2{
+    padding: 2rem;
+}
+
+.contact-container .box .data{
+    font-size: 3rem;
+    padding: 2rem; 
+}
+.contact-container .box .data h3{
+    font-size: 2rem; 
+}
+.contact-container .box2 {
+    padding:2rem;
+    
+}
+.contact .row{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+}
+.contact .row .map{
+    flex:1 1 42rem;
+    width: 100%;
+    padding: 2rem;
+    border: var(--border);
+    border-radius: .5rem;
+    box-shadow: 1px 4px 41px rgba(0,0, 0, 0.5);
+}
+.contact .row form{
+    flex:1 1 42rem;
+    padding: 2rem;
+    border: var(--border);
+    border-radius: .5rem;
+    box-shadow: 1px 4px 41px rgba(0,0, 0, 0.5);
+   
+}
+.contact .row h3{
+    font-size: 2.5rem;
+    padding: 1rem;
+}
+.contact .row #conbox{
+    font-size: 2rem;
+    font-weight: bold;
+    border: 2px solid black;
+}
+@media(max-width:991px){
+    html{
+        font-size: 55%;
+    }
+    .header{
+        padding: 2rem;
+    }
+    .header .active{
+        padding: 2rem;
+    }
+    section{
+        padding:2rem;
+    }
+}
+@media(max-width:760px){
+    .fa-bars{
+       
+        display: block;
+    }
+    .fa-bars.fa-times{
+        transform: rotate(180deg);
+    }
+    .header #login-btn i{
+        display: block;
+        }
+        .header #login-btn .btn{
+            display: none;
+            }
+            .header .navbar{
+                position: absolute;
+                top:99%;
+                left: 0;
+                right: 0;
+                background: white;
+                border-top: var(--border);
+                clip-path: polygon(0 0,100% 0,100% 0,0 0);
+            }
+            .header .navbar.active{
+                clip-path: polygon(0 0,100% 0,100% 100%,0 100%);
+
+            }
+            .header .navbar a{
+                display: block;
+                margin: 2rem;
+                font-size: 2rem;
+                padding: 2rem;
+
+            }
+            
+}
+@media(max-width:450px){
+    html{
+        font-size: 50%;
+    }
+    .heading{
+        font-size: 6rem;
+    }
+}
