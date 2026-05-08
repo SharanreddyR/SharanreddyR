@@ -6,7 +6,6 @@
 
 <div align="center">
 
-
 ### Architecting scalable backend systems, modern mobile applications, and enterprise-grade digital platforms.
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Laravel+Backend+Engineer;React+Native+Application+Developer;Building+Healthcare+%26+Enterprise+Platforms;REST+API+Architecture+Specialist;Scalable+Systems+%7C+Clean+Code+%7C+Performance+Focused;Currently+Mastering+ASP.NET+Core+%26+Clean+Architecture" />
@@ -160,15 +159,12 @@ mission:
 
 <div align="center">
 
-<a href="https://github.com/SharanreddyR">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SharanreddyR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=ffffff&include_all_commits=true&count_private=true&cache_seconds=1800" />
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SharanreddyR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=ffffff&include_all_commits=true&count_private=true" />
 
-<a href="https://github.com/SharanreddyR">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharanreddyR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=ffffff&langs_count=8&cache_seconds=1800" />
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharanreddyR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=ffffff&langs_count=8" />
 
 </div>
+
 ---
 
 # 🔥 Contribution Streak
@@ -185,7 +181,15 @@ mission:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SharanreddyR&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=SharanreddyR&theme=algolia&no-frame=true&no-bg=true&margin-w=18&margin-h=18&row=1&column=6" width="100%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SharanreddyR&theme=onedark&no-frame=true&no-bg=true&margin-w=15&title=Stars,Followers,Commits,Repositories,PullRequest,Experience" width="100%" />
 
 </div>
 
@@ -196,6 +200,16 @@ mission:
 <div align="center">
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SharanreddyR&bg_color=0d1117&color=ffffff&line=38bdf8&point=0ea5e9&area=true&hide_border=true" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/SharanreddyR/SharanreddyR/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
