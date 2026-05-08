@@ -63,37 +63,78 @@ mission:
 <div align="center">
 
 ## 👨‍💻 Languages
-<img src="https://skillicons.dev/icons?i=php,js,ts,cs,html,css&theme=dark" />
 
-<br/><br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=php" title="PHP" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=cs" title="C#" />
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" />
+</p>
+
+<br/>
 
 ## ⚙️ Backend & Frameworks
-<img src="https://skillicons.dev/icons?i=laravel,dotnet,nodejs,express&theme=dark" />
 
-<br/><br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel" title="Laravel Framework" />
+  <img src="https://skillicons.dev/icons?i=dotnet" title="ASP.NET Core / .NET" />
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
+  <img src="https://skillicons.dev/icons?i=express" title="Express.js" />
+</p>
+
+<br/>
 
 ## 🎨 Frontend Technologies
-<img src="https://skillicons.dev/icons?i=bootstrap,react,tailwind&theme=dark" />
 
-<br/><br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react" title="React / React Native" />
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />
+</p>
+
+<br/>
 
 ## 📱 Mobile Development
-<img src="https://skillicons.dev/icons?i=react,firebase&theme=dark" />
 
-<br/><br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=react" title="React Native" />
+  <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" />
+</p>
+
+<br/>
 
 ## 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=dark" />
 
-<br/><br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL Database" />
+  <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL Database" />
+</p>
+
+<br/>
 
 ## ☁️ DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=docker,githubactions,vercel,netlify&theme=dark" />
 
-<br/><br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions CI/CD" />
+  <img src="https://skillicons.dev/icons?i=vercel" title="Vercel Deployment" />
+  <img src="https://skillicons.dev/icons?i=netlify" title="Netlify Hosting" />
+</p>
+
+<br/>
 
 ## 🛠️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,androidstudio,figma&theme=dark" />
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git" title="Git Version Control" />
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman API Testing" />
+  <img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio" />
+  <img src="https://skillicons.dev/icons?i=figma" title="Figma UI/UX Design" />
+</p>
 
 </div>
 
