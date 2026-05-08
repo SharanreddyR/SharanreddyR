@@ -18,11 +18,11 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?logo=github&style=for-the-badge&color=0ea5e9&labelColor=0f172a" />
+<img src="https://img.shields.io/github/followers/SharanreddyR?logo=github&style=for-the-badge&color=0ea5e9&labelColor=0f172a" />
 
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&color=0ea5e9&labelColor=0f172a" />
+<img src="https://img.shields.io/github/stars/SharanreddyR?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&color=0ea5e9&labelColor=0f172a" />
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0ea5e9" />
+<img src="https://komarev.com/ghpvc/?username=SharanreddyR&style=for-the-badge&color=0ea5e9" />
 
 </p>
 
@@ -114,9 +114,9 @@ Philosophy:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SharanreddyR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=ffffff" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0ea5e9&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharanreddyR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0ea5e9&text_color=ffffff" />
 
 </div>
 
@@ -126,7 +126,7 @@ Philosophy:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9" />
+<img src="https://streak-stats.demolab.com?user=SharanreddyR&theme=tokyonight&hide_border=true&background=0D1117&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9" />
 
 </div>
 
@@ -136,7 +136,7 @@ Philosophy:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=ffffff&line=0ea5e9&point=ffffff&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SharanreddyR&bg_color=0d1117&color=ffffff&line=0ea5e9&point=ffffff&area=true&hide_border=true" width="95%"/>
 
 </div>
 
@@ -146,7 +146,7 @@ Philosophy:
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/SharanreddyR">
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
