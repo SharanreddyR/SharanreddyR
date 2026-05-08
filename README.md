@@ -6,7 +6,6 @@
 
 <div align="center">
 
-# 👋 Hey, I'm Sharan
 
 ### Architecting scalable backend systems, modern mobile applications, and enterprise-grade digital platforms.
 
