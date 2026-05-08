@@ -6,6 +6,8 @@
 
 <div align="center">
 
+# 👋 Hey, I'm Sharan
+
 ### Architecting scalable backend systems, modern mobile applications, and enterprise-grade digital platforms.
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Laravel+Backend+Engineer;React+Native+Application+Developer;Building+Healthcare+%26+Enterprise+Platforms;REST+API+Architecture+Specialist;Scalable+Systems+%7C+Clean+Code+%7C+Performance+Focused;Currently+Mastering+ASP.NET+Core+%26+Clean+Architecture" />
@@ -63,7 +65,7 @@ mission:
 ## 👨‍💻 Languages
 
 <p>
-    <img src="https://skillicons.dev/icons?i=java" title="Java" />
+  <img src="https://skillicons.dev/icons?i=java" title="Java" />
   <img src="https://skillicons.dev/icons?i=php" title="PHP" />
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
   <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
@@ -159,9 +161,9 @@ mission:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SharanreddyR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&icon_color=0ea5e9&text_color=ffffff&ring_color=0ea5e9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SharanreddyR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&icon_color=0ea5e9&text_color=ffffff&include_all_commits=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharanreddyR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&text_color=ffffff" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharanreddyR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&text_color=ffffff&langs_count=8" />
 
 </div>
 
@@ -171,7 +173,17 @@ mission:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SharanreddyR&theme=tokyonight&hide_border=true&background=0D1117&stroke=0ea5e9&ring=38bdf8&fire=0ea5e9&currStreakLabel=38bdf8" />
+<img width="70%" src="https://streak-stats.demolab.com?user=SharanreddyR&theme=tokyonight&hide_border=true&background=0D1117&stroke=0ea5e9&ring=38bdf8&fire=0ea5e9&currStreakLabel=38bdf8" />
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SharanreddyR&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" />
 
 </div>
 
@@ -181,7 +193,7 @@ mission:
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SharanreddyR&custom_title=Sharan's%20Contribution%20Graph&bg_color=0D1117&color=ffffff&line=38bdf8&point=0ea5e9&area=true&hide_border=true" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SharanreddyR&custom_title=Sharan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=ffffff&line=38bdf8&point=0ea5e9&area=true&hide_border=true" />
 
 </div>
 
@@ -205,19 +217,19 @@ mission:
 <div align="center">
 
 <a href="https://github.com/SharanreddyR">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" title="GitHub Profile" />
 </a>
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" title="LinkedIn Profile" />
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" title="Send Email" />
 </a>
 
 <a href="https://portfolio-link.com">
-  <img src="https://skillicons.dev/icons?i=devto&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=devto&theme=dark" title="Developer Portfolio" />
 </a>
 
 </div>
