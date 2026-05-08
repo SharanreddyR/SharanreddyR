@@ -63,6 +63,7 @@ mission:
 ## 👨‍💻 Languages
 
 <p>
+    <img src="https://skillicons.dev/icons?i=java" title="Java" />
   <img src="https://skillicons.dev/icons?i=php" title="PHP" />
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
   <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
