@@ -185,13 +185,6 @@ mission:
 
 </div>
 
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SharanreddyR&theme=onedark&no-frame=true&no-bg=true&margin-w=15&title=Stars,Followers,Commits,Repositories,PullRequest,Experience" width="100%" />
-
-</div>
 
 ---
 
