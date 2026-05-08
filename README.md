@@ -161,19 +161,22 @@ mission:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SharanreddyR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&icon_color=0ea5e9&text_color=ffffff&include_all_commits=true&count_private=true" />
+<a href="https://github.com/SharanreddyR">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SharanreddyR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=ffffff&include_all_commits=true&count_private=true&cache_seconds=1800" />
+</a>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharanreddyR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&text_color=ffffff&langs_count=8" />
+<a href="https://github.com/SharanreddyR">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharanreddyR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=ffffff&langs_count=8&cache_seconds=1800" />
+</a>
 
 </div>
-
 ---
 
 # 🔥 Contribution Streak
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=SharanreddyR&theme=tokyonight&hide_border=true&background=0D1117&stroke=0ea5e9&ring=38bdf8&fire=0ea5e9&currStreakLabel=38bdf8" />
+<img width="70%" src="https://streak-stats.demolab.com?user=SharanreddyR&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=0ea5e9&currStreakLabel=38bdf8" />
 
 </div>
 
@@ -193,7 +196,7 @@ mission:
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SharanreddyR&custom_title=Sharan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=ffffff&line=38bdf8&point=0ea5e9&area=true&hide_border=true" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SharanreddyR&bg_color=0d1117&color=ffffff&line=38bdf8&point=0ea5e9&area=true&hide_border=true" />
 
 </div>
 
